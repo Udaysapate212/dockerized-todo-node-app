@@ -58,7 +58,7 @@ This is my **second Docker project** as part of my DevOps learning journey with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/node-todo-cicd.git
+git clone https://github.com/Udaysapate212/dockerized-todo-node-app.git
 cd node-todo-cicd
 
 # Build and run the containers
